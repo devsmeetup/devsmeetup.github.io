@@ -1,22 +1,10 @@
 sponsors:
-  - name: Grünhof
-    url: 'https://www.gruenhof.org/'
-    image: images/gruenhof.png
   - name: Patronas
     url: 'https://www.patronas.com/'
     image: images/patronas.png
-  - name: Inxmail
-    url: 'https://www.inxmail.de/unternehmen/karriere/entwickler'
-    image: images/inxmail.svg
   - name: Reservix
     url: 'https://karriere.reservix.net/'
     image: images/reservix.jpg
-  - name: Haufe Group
-    url: 'http://work.haufegroup.io/'
-    image: images/haufe.png
-  - name: land in sicht
-    url: 'https://www.land-in-sicht.de/'
-    image: images/land-in-sicht.svg
 team:
   - name: Johannes
     url: https://thej6s.com/

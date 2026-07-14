@@ -11,6 +11,9 @@ sponsors:
   - name: Reservix
     url: 'https://karriere.reservix.net/'
     image: images/reservix.jpg
+  - name: Black Forest Labs
+    url: 'https://bfl.ai/'
+    image: images/BFL-logo-black.svg
 team:
   - name: Hannes
     url: https://www.hanneslau.de/

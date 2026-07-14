@@ -23,33 +23,15 @@
 
   > a {
     padding: 20px;
-  }
 
-  img {
-    height: auto;
-  }
+    > img[alt="Reservix"] {
+      height: auto;
+      max-width: 240px;
+    }
 
-  [alt='Grünhof'] {
-    max-width: 80px;
-  }
-
-  [alt='Patronas'] {
-    max-width: 220px;
-  }
-
-  [alt='Inxmail'] {
-    max-width: 240px;
-  }
-
-  [alt='Reservix'] {
-    max-width: 240px;
-  }
-
-  [alt='Haufe Group'] {
-    max-width: 190px;
-  }
-
-  [alt='Nimius'] {
-    max-width: 70px;
+    > img[alt="Black Forest Labs"] {
+      height: auto;
+      max-width: 340px;
+    }
   }
 }

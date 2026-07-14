@@ -22,9 +22,9 @@
     "read-config": "^2.0.0"
   },
   "scripts": {
-    "start": "MEETUP=$(node scripts/getUpcomingMeetup) parcel src/index.pug --open --no-cache",
+    "start": "parcel src/index.pug --open --no-cache",
     "build": "npm-run-all script:clean script:build script:copy script:manifest",
-    "script:build": "MEETUP=$(node scripts/getUpcomingMeetup) parcel build src/index.pug -d release --public-url ./",
+    "script:build": "parcel build src/index.pug -d release --public-url ./",
     "script:clean": "del release dist .cache",
     "script:copy": "node scripts/copyFiles",
     "script:manifest": "node scripts/fixManifest"

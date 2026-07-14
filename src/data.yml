@@ -1,3 +1,12 @@
+meetup:
+  name: '2026-07 KI Tools für Devs'
+  date: '2026-07-29'
+  local_time: '20:00'
+  description: |
+    Im DevsMeetup Freiburg 2026-07 geht es erneut um KI-Unterstützung in der Softwareentwicklung: Wer benutzt was wirklich produktiv im Alltag? Wie konfiguriert man Agents, und welche Konfigurationen checkt man in seinen Projekten ein?
+    Wir zeigen uns gegenseitig, was wir im Alltag einsetzen, und diskutieren, was für wen gut funktioniert.
+    Wir treffen uns um 20:00 Uhr. Um 20:15 Uhr starten wir mit der Diskussion. Davor und danach gibt es die Möglichkeit sich bei Getränken zu unterhalten.
+  link: 'https://www.meetup.com/devsmeetup-freiburg/events/315599450/'
 sponsors:
   - name: Patronas
     url: 'https://www.patronas.com/'

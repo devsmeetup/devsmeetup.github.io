@@ -1,13 +1,21 @@
+-
+  const descriptionLines = meetup.description
+    .split(/\n+/)
+    .map(line => line.trim())
+    .filter(Boolean)
+
 section.teaser-container
   .teaser
     .teaser-caption Upcoming Meetup
     h2.teaser-title #{meetup.name}
     small.teaser-meta
       include calendar.svg
-      span #{meetup.day} #{meetup.month}
+      span #{meetup.date}
       include clock.svg
       span #{meetup.local_time}
-    .teaser-description !{meetup.description}
+    .teaser-description
+      each line in descriptionLines
+        p= line
     .teaser-footer
       +link(meetup.link)(class="teaser-link")
         include rsvp.svg

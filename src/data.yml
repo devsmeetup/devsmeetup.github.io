@@ -8,9 +8,6 @@ meetup:
     Wir treffen uns um 20:00 Uhr. Um 20:15 Uhr starten wir mit der Diskussion. Davor und danach gibt es die Möglichkeit sich bei Getränken zu unterhalten.
   link: 'https://www.meetup.com/devsmeetup-freiburg/events/315599450/'
 sponsors:
-  - name: Patronas
-    url: 'https://www.patronas.com/'
-    image: images/patronas.png
   - name: Reservix
     url: 'https://karriere.reservix.net/'
     image: images/reservix.jpg

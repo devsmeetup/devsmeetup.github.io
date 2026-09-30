@@ -92,6 +92,12 @@
   span + svg {
     margin-left: 10px;
   }
+
+  a {
+    color: rgba($white, 0.75);
+    text-decoration: underline;
+    margin-left: 10px;
+  }
 }
 
 .teaser-description {

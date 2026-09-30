@@ -1,11 +1,14 @@
 meetup:
-  name: '2026-09 KI Tools für Devs'
+  name: '2026-09 BYO Topic (Heute im Blauen Fuchs)'
   date: '2026-09-30'
   local_time: '20:00'
   description: |
+    Diesmal gibt es eine kurzfristige Planänderung: Wir treffen uns nicht im Humboldsaal sondern im "Blauen Fuchs" nebenan. Metzgerau 4.
     Zu dem DevsMeetup Freiburg 2026-09 darf jeder sein eigenes Thema rund um Softwareentwicklung mitbringen. Wir finden uns dann zu Gruppen zusammen, diskutieren die Themen und erzählen nachher den anderen, was wir zusammen getragen haben. 
-    Natürlich stehen wir auch einfach noch bei einem Getränk zusammen.
   link: 'https://www.meetup.com/devsmeetup-freiburg/events/316678436/'
+  location:
+    title: 'Blauer Fuchs'
+    link: https://maps.app.goo.gl/dtWityvRw3bfHZacA
 sponsors:
   - name: Reservix
     url: 'https://karriere.reservix.net/'

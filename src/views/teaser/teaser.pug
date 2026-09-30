@@ -13,6 +13,7 @@ section.teaser-container
       span #{meetup.date}
       include clock.svg
       span #{meetup.local_time}
+      +link(meetup.location.link) #{meetup.location.title}
     .teaser-description
       each line in descriptionLines
         p= line
